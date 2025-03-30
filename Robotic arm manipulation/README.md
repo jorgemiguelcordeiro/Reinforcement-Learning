@@ -2,8 +2,6 @@
 
 This repository implements a Twin Delayed Deep Deterministic Policy Gradient (TD3) reinforcement learning agent for a robotic door opening task using the RoboSuite environment with a Panda robot arm.
 
-![Robotic Door Opening Task](https://robosuite.ai/images/tasks/door.png)
-
 ## Project Overview
 
 This project uses the TD3 algorithm to train a robotic arm to open a door. The TD3 algorithm improves upon DDPG by addressing function approximation errors through:
